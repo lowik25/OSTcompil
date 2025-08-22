@@ -1,0 +1,198 @@
+{
+    // scenes up to date as of 5.18.2025
+
+    // where the mod should look for music tracks
+    // leave empty to use plugin directory
+    "trackPath": "",
+
+    // what to do when multiple tracks are matched to a scene
+    // "repeat" - play and repeat a random matched track
+    // "next" - play through all matched tracks in order of being added
+    // "shuffle" - play through all matched tracks in random order
+    "playbackMode": "shuffle",
+	
+    // a list of scene names can be found here: https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/Developer-Reference/Scene-Names/
+    "playlists": [
+        {
+            "scenes": ["ancientloft", "itancientloft"], // aphelian sanctuary
+            "tracks": ["disease.mp3","diseasegods.mp3","wauto.mp3","forestvocals.mp3","plains.mp3","plainsboss.mp3" ],
+            "bossTracks": ["weakling.mp3"],
+            "postBossTracks": ["After the Battle.mp3", ]
+        },
+        {
+            "scenes": ["arena"], // void fields
+            "tracks": ["temple.mp3", "snow.mp3","gods.mp3","gma.mp3","ultimate.mp3"]
+        },
+        {
+            "scenes": ["blackbeach", "blackbeach2"], // distant roost
+            "tracks": ["P5R - Mementos Upper Layer.mp3","P5R - Gentle Madman.mp3"],
+            "bossTracks": ["P5 - Last Surprise.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["dampcavesimple", "itdampcave"], // abyssal depths
+            "tracks": ["Dark Souls III - Slave Knight Gael", "Dark Souls 3 OST Dragonslayer Armour","Vordt of the Boreal Valley.mp3"],
+            "bossTracks": ["Une vie à peindre"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["foggyswamp"], // wetland aspect
+            "tracks": ["P5S - Jail in Abyss.mp3", "amuse.mp3", "amusevocals.mp3"],
+            "bossTracks": ["End of the Unknown.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["frozenwall", "itfrozenwall"], // rallypoint delta
+            "tracks": ["P5R - Another Ideology.mp3","Tower of Life.mp3"],
+            "bossTracks": ["P5R - Take Over.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["golemplains", "golemplains2", "itgolemplains"], // titanic plains
+            "tracks": ["P5R - Mementos Upper Layer.mp3", "P5R - Gentle Madman.mp3"],
+            "bossTracks": ["P5 - Last Surprise.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["goolake", "itgoolake"], // abandoned aqueduct
+            "tracks": ["birth.mp3","cantbirth.mp3","dust.mp3","dustvocals.mp3"],
+            "bossTracks": ["colossus.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["habitat", "habitatfall"], // treeborn colony, golden dieback
+            "tracks": ["wretchedvocals.mp3","wretched.mp3","whitenote.mp3"],
+            "bossTracks": [""],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["helminthroost"], // helminth hatchery
+            "tracks": ["void.mp3","void1.mp3","P5 - Blooming Villain.mp3","boss3-2"],
+            "bossTracks": ["P5 - Sweatshop.mp3","P5S - Demiurge I.mp3", "artifactboss.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["lakes", "lakesnight"], // verdant falls, viscous falls
+            "tracks": ["pascal.mp3", "raysvocal.mp3","lies.mp3"],
+            "bossTracks": [""],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["lemuriantemple"], // reformed altar
+            "tracks": ["disease.mp3","diseasegods.mp3","wauto.mp3","forestvocals.mp3","plains.mp3"],
+            "bossTracks": ["weakling.mp3", "weight.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["meridian"], // prime meridian
+            "tracks": ["Roar of the Jungle Dragon","UNIVERSAL COLLAPSE.mp3"],
+            "bossTracks": ["boss1-1.mp3","boss2-1.mp3","boss3-1.mp3","boss4-1.mp3","boss4-2.mp3","boss5"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["moon2", "itmoon"], // commencement
+            "tracks": ["ashes.mp3", "Baldurs Gate 3 - OST - I Want To Live.mp3", "Loin.mp3", "還ラナイ声ギター.mp3", "Dolorosa.mp3","Maelle.mp3", "曖昧ナ希望氷雨.mp3", "gods.mp3", "gma.mp3"],
+            "bossTracks": ["MEGALOVANIA.mp3", "Une vie à taimer.mp3", "Devil Trigger.mp3", "Bury The Light.mp3", "Burn My Dread.mp3", "mithrix.mp3", "P5R - Throw Away Your Mask.mp3", "Nightmare King.mp3"],
+            "postBossTracks": ["PQ2 - Life Will Change.mp3"]
+        },
+        {
+            "scenes": ["rootjungle"], // sundered grove
+            "tracks": ["blackbeach.mp3"],
+            "bossTracks": ["P5S - Daredevil.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["shipgraveyard"], // siren's call
+            "tracks": ["Number the Hours.mp3","Divided Swords.mp3","Over the Fallen.mp3"],
+            "bossTracks": ["Dualliste.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["skymeadow", "itskymeadow"], // sky meadow
+            "tracks": ["Burn My Dread.mp3","Deep Breath.mp3","Deep Mentality.mp3","Mass Destruction.mp3","Master of Shadow.mp3","moon.mp3"],
+            "bossTracks": ["P5 - Rivers in a Desert.mp3", "It’s Going Down.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["snowyforest"], // siphoned forest
+            "tracks": ["P5R - Mementos Upper Layer.mp3"],
+            "bossTracks": [""],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["sulfurpools"], // sulfur pools
+            "tracks": ["Submerged Lights.mp3","Electric Tides.mp3","Goblu.mp3","Serpenphare.mp3"],
+            "bossTracks": ["Rain from the Ground.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["village", "villagenight"], // shattered abodes, disturbed impact
+            "tracks": ["The Whale Next to the Cliff.mp3","Bonzaie Clairing.mp3","Path on the Roots.mp3"],
+            "bossTracks": ["Megabot.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["voidraid"], // the planetarium
+            "tracks": ["beautiful"]
+        },
+        {
+            "scenes": ["voidstage"], // void locus
+            "tracks": ["emildes.mp3","gmades.mp3","shadowperc.mp3","blackbeachboss.mp3"]
+        },
+        {
+            "scenes": ["wispgraveyard"], // scorched acres
+            "tracks": ["eclipse","P5R - Gentle Madman.mp3","P5S - Counterfeit Phantom.mp3"],
+            "bossTracks": ["P5R - Take Over.mp3"],
+            "postBossTracks": ["After the Battle.mp3"]
+        },
+        {
+            "scenes": ["artifactworld", "artifactworld01", "artifactworld02", "artifactworld03"], // bulwark's ambry
+            "tracks": ["P5S - Counterstrike.mp3", "Dont.mp3", "P5S - Singularity.mp3"]
+        },
+        {
+            "scenes": ["bazaar"], // bazaar
+            "tracks": ["bazaar.mp3", "P5 - A Woman.mp3", "bazaar1.mp3", "lies.mp3", "P5 - The Poem of Everyone's Souls.mp3"]
+        },
+        {
+            "scenes": ["goldshores"], // gilded coast
+            "tracks": ["P5R - I Believe.mp3","PQ2 - Invitation To Freedom.mp3"]
+        },
+        {
+            "scenes": ["limbo"], // a moment, whole
+            "tracks": ["P5R - I Will Give You.mp3", "gma.mp3", "mystery.mp3","bliss.mp3","dream.mp3"]
+        },
+        {
+            "scenes": ["mysteryspace"], // a moment, fractured
+            "tracks": ["P5R - I Will Give You.mp3", "gma.mp3", "mystery.mp3","dream.mp3","shadow.mp3"]
+        },
+		{
+            "scenes": ["intro"], // intro
+            "tracks": ["intro.mp3", "P5 - Interrogation Room.mp3"]
+        },
+		{
+            "scenes": ["title"], // title
+            "tracks": ["Living With Determination.mp3", "title.mp3", "P5 - Phantom.mp3", "P5R - Royal Days.mp3", "P5S - Strikers.mp3"]
+        },
+        {
+            "scenes": ["crystalworld", "infinitetowerworld", "loadingbasic", "splash",], // main menu
+            "tracks": ["P5 - Beneath the Mask.mp3"]
+        },
+		{
+            "scenes": ["eclipseworld"], // eclipseworld
+            "tracks": ["Lumière"]
+        },
+		{
+            "scenes": ["logbook"], // logbook
+            "tracks": ["Full Moon Full Life.mp3","logbook.mp3"]
+        },
+        {
+            "scenes": ["lobby"], // character select
+            "tracks": ["P5 - Beneath the Mask.mp3","P5 - Beneath the Mask(Rain).mp3", "Gestral Market.mp3", "lobby.mp3", "lobby1.mp3", "scavenger.mp3"]
+        },
+        {
+            "scenes": ["outro"], // credits
+            "tracks": ["キミの記憶 -Reload-.mp3", "Weight of the Worldthe End of YoRHa.mp3", "P5 - With the Stars and Us.mp3"]
+        }
+    ]
+
+}
