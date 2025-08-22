@@ -1,7 +1,7 @@
 {
     "name": "OSTcompil",
     "description": "Replaces the ROR2 soundtrack with OST from: Nier replicant and automata, Persona 3 and 5, clair obscur expedition 33 and much more",
-    "website_url": "",
+    "website_url": "https://github.com/lowik25/OSTcompil",
     "version_number": "0.1",
     "dependencies": [
         "RiskofThunder-RoR2BepInExPack-1.26.0",
