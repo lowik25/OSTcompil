@@ -174,7 +174,7 @@
             "tracks": ["Living With Determination.mp3", "title.mp3", "P5 - Phantom.mp3", "P5R - Royal Days.mp3", "P5S - Strikers.mp3"]
         },
         {
-            "scenes": ["crystalworld", "infinitetowerworld", "loadingbasic", "splash",], // main menu
+            "scenes": ["crystalworld", "infinitetowerworld", "loadingbasic", "splash"], // main menu
             "tracks": ["P5 - Beneath the Mask.mp3"]
         },
 		{
