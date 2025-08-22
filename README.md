@@ -1,6 +1,6 @@
-# Custom OST for Risk of Rain 2
+# compilation of OST for Risk of Rain 2
 
-A mod that allows you to customize the Risk of Rain 2 soundtrack with your own music tracks. Either build your own OST or use it to make your own mod, just credit if you do please!
+A mod that replace the Risk of Rain 2 soundtrack with OST from: Nier replicant and automata, Persona 3 and 5, clair obscur expedition 33 and much more
 
 ## Requirements
 
@@ -18,18 +18,22 @@ A mod that allows you to customize the Risk of Rain 2 soundtrack with your own m
 5. Extract the contents of the zip file into your Risk of Rain 2 BepInEx plugins folder
    - The default path is: `C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\BepInEx\plugins`
 
-## Configuration
-
-The mod uses a `settings.json` file to configure your custom soundtrack. You can specify which music tracks to play during different game events and stages.
 
 ## Version
 
-Current Version: 0.0.1
+Current Version: 0.1
 
 ## Support
 
-For issues, suggestions, or feedback, please visit the [GitHub repository](https://github.com/parkerpayne/RoR2-Custom-Soundtrack).
+I'm pretty sure that you are better than me using a computer so it would be difficult for me to help you, but if you have any technical questions visit the [GitHub repository](https://github.com/parkerpayne/RoR2-Custom-Soundtrack) from the original mod creator.
 
 ## License
 
-This mod is provided as-is. Please ensure you have the rights to use any music tracks you add to your custom soundtrack. 
+This mod is provided as-is. The music tracks are property of their respective owners.
+
+## credits
+
+thanks to penumbrah for the CustomOST mod that this mod relies on.
+thanks to lacirev for the original persona 5 OST mod that I used to create this mod: [GitHub repository](https://github.com/kylepaulsen/RoR2-Original-Sound-Track)
+thanks to diggy for the original NierSoundtrack mod that I used to create this mod: [Thunderstore repository](https://thunderstore.io/package/diggy/NierSoundtrack/)
+
