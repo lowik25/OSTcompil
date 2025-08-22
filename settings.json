@@ -17,7 +17,7 @@
             "scenes": ["ancientloft", "itancientloft"], // aphelian sanctuary
             "tracks": ["disease.mp3","diseasegods.mp3","wauto.mp3","forestvocals.mp3","plains.mp3","plainsboss.mp3" ],
             "bossTracks": ["weakling.mp3"],
-            "postBossTracks": ["After the Battle.mp3", ]
+            "postBossTracks": ["After the Battle.mp3"]
         },
         {
             "scenes": ["arena"], // void fields
