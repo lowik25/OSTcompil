@@ -22,6 +22,7 @@ A mod that replace the Risk of Rain 2 soundtrack with OST from: Nier replicant a
 ## Version
 
 Current Version: 0.1
+Some stages music wil be changed in the futur because I doesn't find music that feat well with them, if you have any music idea to implemant contact me: #lowik0734
 
 ## Support
 
@@ -33,9 +34,9 @@ This mod is provided as-is. The music tracks are property of their respective ow
 
 ## credits
 
-thanks to penumbrah for the CustomOST mod that this mod relies on.
-thanks to lacirev for the original persona 5 OST mod that I used to create this mod: [GitHub repository](https://github.com/kylepaulsen/RoR2-Original-Sound-Track)
-thanks to diggy for the original NierSoundtrack mod that I used to create this mod: [Thunderstore repository](https://thunderstore.io/package/diggy/NierSoundtrack/)
+- thanks to penumbrah for the CustomOST mod that this mod relies on.
+- thanks to lacirev for the original persona 5 OST mod that I used to create this mod: [GitHub repository](https://github.com/kylepaulsen/RoR2-Original-Sound-Track)
+- thanks to diggy for the original NierSoundtrack mod that I used to create this mod: [Thunderstore repository](https://thunderstore.io/package/diggy/NierSoundtrack/)
 
 ## warning
 There are some sound issues. For the music to play, both the master volume and music volume in your settings must be set to 100%
