@@ -35,7 +35,7 @@ This mod is provided as-is. The music tracks are property of their respective ow
 ## credits
 
 - thanks to penumbrah for the CustomOST mod that this mod relies on.
-- thanks to lacirev for the original persona 5 OST mod that I used to create this mod: [GitHub repository](https://github.com/kylepaulsen/RoR2-Original-Sound-Track)
+- thanks to lacirev for the original persona 5 OST mod that I used to create this mod: [Thunderstore repository](https://thunderstore.io/package/Lacirev/Persona5Soundtrack/)
 - thanks to diggy for the original NierSoundtrack mod that I used to create this mod: [Thunderstore repository](https://thunderstore.io/package/diggy/NierSoundtrack/)
 
 ## warning
