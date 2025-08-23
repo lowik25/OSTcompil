@@ -21,8 +21,8 @@ A mod that replace the Risk of Rain 2 soundtrack with OST from: Nier replicant a
 
 ## Version
 
-Current Version: 0.1
-Some stages music wil be changed in the futur because I doesn't find music that feat well with them, if you have any music idea to implemant contact me: #lowik0734
+-Current Version: 0.1
+-Some stages music wil be changed in the futur because I doesn't find music that feat well with them, if you have any music idea to implemant contact me: #lowik0734
 
 ## Support
 
